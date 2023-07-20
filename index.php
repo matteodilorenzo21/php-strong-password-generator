@@ -4,6 +4,7 @@ include 'functions/password_generator.php';
 
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 
